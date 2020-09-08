@@ -20,22 +20,26 @@
       {
         "name": "facebook",
         "url": "https://www.facebook.com/Sacz.Leo.N/",
-        "className": "fa fa-facebook"
+        "iconClassName": "fa fa-facebook",
+        "linkClassName": "link-facebook"
       },
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/leonardo-kurniawan/",
-        "className": "fa fa-linkedin"
+        "iconClassName": "fa fa-linkedin",
+        "linkClassName": "link-linkedin"
       },
       {
         "name": "instagram",
         "url": "https://www.instagram.com/leonardo.kur/",
-        "className": "fa fa-instagram"
+        "iconClassName": "fa fa-instagram",
+        "linkClassName": "link-instagram"
       },
       {
         "name": "github",
         "url": "https://github.com/leonardokurniawan",
-        "className": "fa fa-github"
+        "iconClassName": "fa fa-github",
+        "linkClassName": "link-github"
       }
     ]
   },

@@ -96,6 +96,10 @@ header .social li {
 }
 header .social li a { color: #fff; }
 header .social li a:hover { color: #11ABB0; }
+.link-facebook:hover { color: #3B5998 !important; }
+.link-linkedin:hover { color: #0E76A8 !important; }
+.link-instagram:hover { color: #d6249f !important; }
+.link-github:hover { color: #24292e !important; }
 
 /* scrolldown link */
 header .scrolldown a {
